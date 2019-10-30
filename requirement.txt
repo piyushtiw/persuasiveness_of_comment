@@ -1,0 +1,12 @@
+gensim>=3.1.0
+numpy>=1.13.1
+pandas>=0.20.3
+pandas_summary>=0.0.41
+python-dateutil>=2.6.1
+scipy>=0.19.1
+seaborn>=0.8.1
+scikit-learn>=0.19.1
+nltk>=3.2.5
+BeautifulSoup>=3.2.1
+textsearch
+contractions
